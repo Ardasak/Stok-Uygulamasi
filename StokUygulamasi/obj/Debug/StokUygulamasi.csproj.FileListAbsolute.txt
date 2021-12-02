@@ -1,0 +1,10 @@
+C:\Users\ardas\source\repos\StokUygulamasi\StokUygulamasi\bin\Debug\StokUygulamasi.exe.config
+C:\Users\ardas\source\repos\StokUygulamasi\StokUygulamasi\bin\Debug\StokUygulamasi.exe
+C:\Users\ardas\source\repos\StokUygulamasi\StokUygulamasi\bin\Debug\StokUygulamasi.pdb
+C:\Users\ardas\source\repos\StokUygulamasi\StokUygulamasi\obj\Debug\StokUygulamasi.csproj.AssemblyReference.cache
+C:\Users\ardas\source\repos\StokUygulamasi\StokUygulamasi\obj\Debug\StokUygulamasi.Form1.resources
+C:\Users\ardas\source\repos\StokUygulamasi\StokUygulamasi\obj\Debug\StokUygulamasi.Properties.Resources.resources
+C:\Users\ardas\source\repos\StokUygulamasi\StokUygulamasi\obj\Debug\StokUygulamasi.csproj.GenerateResource.cache
+C:\Users\ardas\source\repos\StokUygulamasi\StokUygulamasi\obj\Debug\StokUygulamasi.csproj.CoreCompileInputs.cache
+C:\Users\ardas\source\repos\StokUygulamasi\StokUygulamasi\obj\Debug\StokUygulamasi.exe
+C:\Users\ardas\source\repos\StokUygulamasi\StokUygulamasi\obj\Debug\StokUygulamasi.pdb
